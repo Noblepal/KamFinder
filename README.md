@@ -1,2 +1,2 @@
-# Kamfinder
+# KamFinder
 Font scanner app
